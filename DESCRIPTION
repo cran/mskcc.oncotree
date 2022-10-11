@@ -1,7 +1,7 @@
 Package: mskcc.oncotree
 Type: Package
 Title: Interface to the 'OncoTree' API
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person(given = "Ramiro", family = "Magno",
       email = "ramiro.magno@gmail.com",
@@ -22,17 +22,17 @@ Description: Programmatic access to 'OncoTree' API
     and utility routines to map across to other tumor classification systems.
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
 Imports: dplyr, glue, httr2, magrittr, memoise, purrr, readr, rlang,
         tibble, tidyjson, tidyr
 URL: https://maialab.org/mskcc.oncotree/
 BugReports: https://github.com/maialab/mskcc.oncotree/issues
 NeedsCompilation: no
-Packaged: 2022-04-21 00:16:13 UTC; rmagno
+Packaged: 2022-10-11 17:51:52 UTC; rmagno
 Author: Ramiro Magno [aut, cre] (<https://orcid.org/0000-0001-5226-3441>),
   Isabel Duarte [aut] (<https://orcid.org/0000-0003-0060-2936>),
   Ana-Teresa Maia [aut] (<https://orcid.org/0000-0002-0454-9207>),
   CINTESIS [cph, fnd]
 Maintainer: Ramiro Magno <ramiro.magno@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-04-21 13:10:02 UTC
+Date/Publication: 2022-10-11 18:10:06 UTC
